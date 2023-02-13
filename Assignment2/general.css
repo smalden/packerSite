@@ -1,0 +1,33 @@
+#header ul {
+  list-style-type: none;
+  overflow: hidden;
+  padding: 0%;
+  border: solid black 2px;
+}
+  
+#header li {
+  height: 40px;
+  width: 75px;
+  float: left;
+  text-align: center;
+  padding-left: 25px;
+  padding-top: 10px;
+}
+  
+#header li a {
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  font-size: 25;
+}
+
+#footer p{
+ color: rgb(189, 188, 188);
+ font-size: small;
+ text-align: center;
+ margin-top: 50px;
+}
+
+#banner{
+  width: 100%
+}
